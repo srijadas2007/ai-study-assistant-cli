@@ -73,5 +73,7 @@ This project demonstrates the use of basic AI concepts such as knowledge represe
 ## Author
 
 Name: SRIJA DAS
+
 Registration no.: 25BAI10576
+
 Course: Fundamentals of AI and ML
